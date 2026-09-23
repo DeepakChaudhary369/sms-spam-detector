@@ -7,6 +7,8 @@ ShieldSMS is a machine learning web application that detects whether an SMS mess
 Try the application:
 
 https://sms-spam-detector-hwss9qxgvctzjvqckgnijr.streamlit.app/
+
+
 ✨ Features
 
 - 📩 SMS spam detection
